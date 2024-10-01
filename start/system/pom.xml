@@ -43,7 +43,7 @@
         <dependency>
             <groupId>org.eclipse.microprofile.reactive-streams-operators</groupId>
             <artifactId>microprofile-reactive-streams-operators-api</artifactId>
-            <version>3.0</version>
+            <version>3.0.1</version>
         </dependency>
 
         <!-- Required dependencies -->
